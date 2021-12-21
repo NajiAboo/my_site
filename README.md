@@ -1,2 +1,2 @@
 # my_site
-django website
+django website for blogging
